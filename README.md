@@ -1,5 +1,5 @@
 ## Hi there 👋  
-Hey there, Hamilton here. I'm a software engineer with a diverse journey behind me. I worked in various ops-based roles, then pivoted towards work that I found to be more rewarding and aligned with my values, leading me to pursue dentistry from 2017-2022. A health scare prompted me to take a leave of absence, and during that time off, I leaned into my passion for decentralization and the empowering potential of related technologies.  
+Hey there, Dayan here. I'm a software engineer with a diverse journey behind me. I worked in various ops-based roles, then pivoted towards work that I found to be more rewarding and aligned with my values, leading me to pursue dentistry from 2017-2022. A health scare prompted me to take a leave of absence, and during that time off, I leaned into my passion for decentralization and the empowering potential of related technologies.  
 
 I embraced that interest, went through an intensive coding bootcamp, and am now equipped with a diverse background and fresh set of technical skills eager to contribute to the space.  
 
