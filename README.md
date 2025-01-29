@@ -45,9 +45,6 @@ Feel free to explore my GitHub and reach out if you'd like to learn more about a
 ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)  
 ![Google Maps](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Maps&color=4285F4&logo=Google+Maps&logoColor=FFFFFF&label=)  
 
----
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dayanzzz&theme=highcontrast)
 
 ---
 
